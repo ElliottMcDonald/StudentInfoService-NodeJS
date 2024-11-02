@@ -1,0 +1,30 @@
+{
+  "name": "studentinfoservice",
+  "version": "1.0.0",
+  "description": "A Nodejs API for managing student information using CRUD operations.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElliottMcDonald/StudentInfoService-NodeJS.git"
+  },
+  "keywords": [
+    "[\"student\"",
+    "\"CRUD\"",
+    "\"API\"",
+    "\"Node.js\"",
+    "\"Express\"",
+    "\"database\"]"
+  ],
+  "author": "ElliottMcDonald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElliottMcDonald/StudentInfoService-NodeJS/issues"
+  },
+  "homepage": "https://github.com/ElliottMcDonald/StudentInfoService-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
